@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">TwoActivities</string>
+    <string name="button_main">button_main</string>
+    <string name="text_header">text_header</string>
+    <string name="editText_main">editText_main</string>
+</resources>
