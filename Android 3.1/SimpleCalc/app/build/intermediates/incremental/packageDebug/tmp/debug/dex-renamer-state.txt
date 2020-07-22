@@ -1,0 +1,4 @@
+#Wed Jul 22 22:02:04 KST 2020
+base.0=/Users/seob_jj/github/repository/android-learn/Android 3.1/SimpleCalc/app/build/intermediates/transforms/dexMerger/debug/0
+path.0=classes.dex
+renamed.0=classes.dex
