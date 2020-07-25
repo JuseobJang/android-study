@@ -1,5 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2" xmlns:ns2="http://schemas.android.com/tools">
+    <string-array name="label_array">
+        <item>Home</item>
+        <item>Work</item>
+        <item>Mobile</item>
+        <item>Other</item>
+    </string-array>
     <attr format="reference" name="constraintSet"/>
     <attr format="reference" name="coordinatorLayoutStyle"/>
     <attr format="reference" name="drawerArrowStyle"/>
@@ -404,6 +410,7 @@
     <string name="bottom_sheet_behavior" translatable="false">android.support.design.widget.BottomSheetBehavior</string>
     <string name="change_dessert">Change dessert</string>
     <string name="character_counter_pattern" translatable="false">%1$d / %2$d</string>
+    <string name="choose_delivery_method">Choose a delivery method</string>
     <string name="donut_order_message">You ordered a donut.</string>
     <string name="donuts">Donuts are glazed and sprinkled with candy.</string>
     <string name="enter_address_hint">Enter your address</string>
@@ -416,6 +423,7 @@
     <string name="ice_cream_sandwiches">Ice cream sandwiches have chocolate wafers and vanilla filling.</string>
     <string name="intro_text">Droid Desserts</string>
     <string name="name_label_text">Name</string>
+    <string name="next_day_ground_delivery">Next day ground delivery</string>
     <string name="note_label_text">Note</string>
     <string name="order_label_text">Order:</string>
     <string name="password_toggle_content_description">Toggle password visibility</string>
@@ -424,6 +432,8 @@
     <string name="path_password_eye_mask_visible" translatable="false">M2,4.27 L2,4.27 L4.54,1.73 L4.54,1.73 L4.54,1 L23,1 L23,23 L1,23 L1,4.27 Z</string>
     <string name="path_password_strike_through" translatable="false">M3.27,4.27 L19.74,20.74</string>
     <string name="phone_label_text">Phone</string>
+    <string name="pick_up">Pick up</string>
+    <string name="same_day_messenger_service">Same day messenger service</string>
     <string name="search_menu_title">Search</string>
     <string name="status_bar_notification_info_overflow">999+</string>
     <style name="AlertDialog.AppCompat" parent="Base.AlertDialog.AppCompat"/>
