@@ -1,9 +1,9 @@
 -- Merging decision tree log ---
 manifest
-ADDED from /Users/seob_jj/github/repository/android-learn/Android 4.2/DroidCafeInput/app/src/main/AndroidManifest.xml:18:1-41:12
-INJECTED from /Users/seob_jj/github/repository/android-learn/Android 4.2/DroidCafeInput/app/src/main/AndroidManifest.xml:18:1-41:12
-INJECTED from /Users/seob_jj/github/repository/android-learn/Android 4.2/DroidCafeInput/app/src/main/AndroidManifest.xml:18:1-41:12
-INJECTED from /Users/seob_jj/github/repository/android-learn/Android 4.2/DroidCafeInput/app/src/main/AndroidManifest.xml:18:1-41:12
+ADDED from /Users/seob_jj/github/repository/android-learn/Android 4.2/DroidCafeInput/app/src/main/AndroidManifest.xml:18:1-45:12
+INJECTED from /Users/seob_jj/github/repository/android-learn/Android 4.2/DroidCafeInput/app/src/main/AndroidManifest.xml:18:1-45:12
+INJECTED from /Users/seob_jj/github/repository/android-learn/Android 4.2/DroidCafeInput/app/src/main/AndroidManifest.xml:18:1-45:12
+INJECTED from /Users/seob_jj/github/repository/android-learn/Android 4.2/DroidCafeInput/app/src/main/AndroidManifest.xml:18:1-45:12
 MERGED from [com.android.support:design:27.1.0] /Users/seob_jj/.gradle/caches/transforms-2/files-2.1/78646191e20f3196e5a7111eed1a1380/design-27.1.0/AndroidManifest.xml:17:1-22:12
 MERGED from [com.android.support:appcompat-v7:27.1.0] /Users/seob_jj/.gradle/caches/transforms-2/files-2.1/fa279bcd17e3402fd03b5cbdd96fb9e3/appcompat-v7-27.1.0/AndroidManifest.xml:17:1-22:12
 MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/seob_jj/.gradle/caches/transforms-2/files-2.1/35b9440ab833677aa46bea771335a11f/constraint-layout-1.0.2/AndroidManifest.xml:2:1-11:12
@@ -21,25 +21,25 @@ MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /Users/seob_jj/.gradle/
 MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /Users/seob_jj/.gradle/caches/transforms-2/files-2.1/ef6843ea5770e504c24b448e1bb8a0a9/viewmodel-1.1.0/AndroidManifest.xml:17:1-22:12
 MERGED from [android.arch.lifecycle:runtime:1.1.0] /Users/seob_jj/.gradle/caches/transforms-2/files-2.1/c06d85bc43379e950603fd5693ef4696/runtime-1.1.0/AndroidManifest.xml:17:1-22:12
 MERGED from [android.arch.core:runtime:1.1.0] /Users/seob_jj/.gradle/caches/transforms-2/files-2.1/0a2bdce0da8cfd5c768a5af1598d6c65/runtime-1.1.0/AndroidManifest.xml:17:1-22:12
-INJECTED from /Users/seob_jj/github/repository/android-learn/Android 4.2/DroidCafeInput/app/src/main/AndroidManifest.xml:18:1-41:12
-INJECTED from /Users/seob_jj/github/repository/android-learn/Android 4.2/DroidCafeInput/app/src/main/AndroidManifest.xml:18:1-41:12
-INJECTED from /Users/seob_jj/github/repository/android-learn/Android 4.2/DroidCafeInput/app/src/main/AndroidManifest.xml:18:1-41:12
+INJECTED from /Users/seob_jj/github/repository/android-learn/Android 4.2/DroidCafeInput/app/src/main/AndroidManifest.xml:18:1-45:12
+INJECTED from /Users/seob_jj/github/repository/android-learn/Android 4.2/DroidCafeInput/app/src/main/AndroidManifest.xml:18:1-45:12
+INJECTED from /Users/seob_jj/github/repository/android-learn/Android 4.2/DroidCafeInput/app/src/main/AndroidManifest.xml:18:1-45:12
 	package
 		ADDED from /Users/seob_jj/github/repository/android-learn/Android 4.2/DroidCafeInput/app/src/main/AndroidManifest.xml:19:5-44
 		INJECTED from /Users/seob_jj/github/repository/android-learn/Android 4.2/DroidCafeInput/app/src/main/AndroidManifest.xml
 		INJECTED from /Users/seob_jj/github/repository/android-learn/Android 4.2/DroidCafeInput/app/src/main/AndroidManifest.xml
 	android:versionName
 		INJECTED from /Users/seob_jj/github/repository/android-learn/Android 4.2/DroidCafeInput/app/src/main/AndroidManifest.xml
-		ADDED from /Users/seob_jj/github/repository/android-learn/Android 4.2/DroidCafeInput/app/src/main/AndroidManifest.xml:18:1-41:12
+		ADDED from /Users/seob_jj/github/repository/android-learn/Android 4.2/DroidCafeInput/app/src/main/AndroidManifest.xml:18:1-45:12
 		INJECTED from /Users/seob_jj/github/repository/android-learn/Android 4.2/DroidCafeInput/app/src/main/AndroidManifest.xml
 	android:versionCode
 		INJECTED from /Users/seob_jj/github/repository/android-learn/Android 4.2/DroidCafeInput/app/src/main/AndroidManifest.xml
-		ADDED from /Users/seob_jj/github/repository/android-learn/Android 4.2/DroidCafeInput/app/src/main/AndroidManifest.xml:18:1-41:12
+		ADDED from /Users/seob_jj/github/repository/android-learn/Android 4.2/DroidCafeInput/app/src/main/AndroidManifest.xml:18:1-45:12
 		INJECTED from /Users/seob_jj/github/repository/android-learn/Android 4.2/DroidCafeInput/app/src/main/AndroidManifest.xml
 	xmlns:android
 		ADDED from /Users/seob_jj/github/repository/android-learn/Android 4.2/DroidCafeInput/app/src/main/AndroidManifest.xml:18:11-69
 application
-ADDED from /Users/seob_jj/github/repository/android-learn/Android 4.2/DroidCafeInput/app/src/main/AndroidManifest.xml:21:5-39:19
+ADDED from /Users/seob_jj/github/repository/android-learn/Android 4.2/DroidCafeInput/app/src/main/AndroidManifest.xml:21:5-43:38
 MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/seob_jj/.gradle/caches/transforms-2/files-2.1/35b9440ab833677aa46bea771335a11f/constraint-layout-1.0.2/AndroidManifest.xml:9:5-20
 MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/seob_jj/.gradle/caches/transforms-2/files-2.1/35b9440ab833677aa46bea771335a11f/constraint-layout-1.0.2/AndroidManifest.xml:9:5-20
 	android:supportsRtl
@@ -73,9 +73,19 @@ ADDED from /Users/seob_jj/github/repository/android-learn/Android 4.2/DroidCafeI
 	android:name
 		ADDED from /Users/seob_jj/github/repository/android-learn/Android 4.2/DroidCafeInput/app/src/main/AndroidManifest.xml:35:27-74
 activity#com.example.android.droidcafe.OrderActivity
-ADDED from /Users/seob_jj/github/repository/android-learn/Android 4.2/DroidCafeInput/app/src/main/AndroidManifest.xml:38:9-60
+ADDED from /Users/seob_jj/github/repository/android-learn/Android 4.2/DroidCafeInput/app/src/main/AndroidManifest.xml:38:9-43:20
+	android:parentActivityName
+		ADDED from /Users/seob_jj/github/repository/android-learn/Android 4.2/DroidCafeInput/app/src/main/AndroidManifest.xml:40:13-55
+	android:label
+		ADDED from /Users/seob_jj/github/repository/android-learn/Android 4.2/DroidCafeInput/app/src/main/AndroidManifest.xml:39:13-57
 	android:name
 		ADDED from /Users/seob_jj/github/repository/android-learn/Android 4.2/DroidCafeInput/app/src/main/AndroidManifest.xml:38:19-48
+meta-data#android.support.PARENT_ACTIVITY
+ADDED from /Users/seob_jj/github/repository/android-learn/Android 4.2/DroidCafeInput/app/src/main/AndroidManifest.xml:41:13-42:48
+	android:value
+		ADDED from /Users/seob_jj/github/repository/android-learn/Android 4.2/DroidCafeInput/app/src/main/AndroidManifest.xml:42:17-46
+	android:name
+		ADDED from /Users/seob_jj/github/repository/android-learn/Android 4.2/DroidCafeInput/app/src/main/AndroidManifest.xml:41:24-70
 uses-sdk
 INJECTED from /Users/seob_jj/github/repository/android-learn/Android 4.2/DroidCafeInput/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from /Users/seob_jj/github/repository/android-learn/Android 4.2/DroidCafeInput/app/src/main/AndroidManifest.xml

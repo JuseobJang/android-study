@@ -26,7 +26,7 @@
 24-->/Users/seob_jj/github/repository/android-learn/Android 4.2/DroidCafeInput/app/src/main/AndroidManifest.xml
 25
 26    <application
-26-->/Users/seob_jj/github/repository/android-learn/Android 4.2/DroidCafeInput/app/src/main/AndroidManifest.xml:21:5-39:19
+26-->/Users/seob_jj/github/repository/android-learn/Android 4.2/DroidCafeInput/app/src/main/AndroidManifest.xml:21:5-43:38
 27        android:allowBackup="true"
 27-->/Users/seob_jj/github/repository/android-learn/Android 4.2/DroidCafeInput/app/src/main/AndroidManifest.xml:22:9-35
 28        android:debuggable="true"
@@ -60,9 +60,21 @@
 42-->/Users/seob_jj/github/repository/android-learn/Android 4.2/DroidCafeInput/app/src/main/AndroidManifest.xml:35:27-74
 43            </intent-filter>
 44        </activity>
-45        <activity android:name="com.example.android.droidcafe.OrderActivity" />
-45-->/Users/seob_jj/github/repository/android-learn/Android 4.2/DroidCafeInput/app/src/main/AndroidManifest.xml:38:9-60
-45-->/Users/seob_jj/github/repository/android-learn/Android 4.2/DroidCafeInput/app/src/main/AndroidManifest.xml:38:19-48
-46    </application>
-47
-48</manifest>
+45        <activity
+45-->/Users/seob_jj/github/repository/android-learn/Android 4.2/DroidCafeInput/app/src/main/AndroidManifest.xml:38:9-43:20
+46            android:name="com.example.android.droidcafe.OrderActivity"
+46-->/Users/seob_jj/github/repository/android-learn/Android 4.2/DroidCafeInput/app/src/main/AndroidManifest.xml:38:19-48
+47            android:label="@string/title_activity_order"
+47-->/Users/seob_jj/github/repository/android-learn/Android 4.2/DroidCafeInput/app/src/main/AndroidManifest.xml:39:13-57
+48            android:parentActivityName="com.example.android.droidcafe.MainActivity" >
+48-->/Users/seob_jj/github/repository/android-learn/Android 4.2/DroidCafeInput/app/src/main/AndroidManifest.xml:40:13-55
+49            <meta-data
+49-->/Users/seob_jj/github/repository/android-learn/Android 4.2/DroidCafeInput/app/src/main/AndroidManifest.xml:41:13-42:48
+50                android:name="android.support.PARENT_ACTIVITY"
+50-->/Users/seob_jj/github/repository/android-learn/Android 4.2/DroidCafeInput/app/src/main/AndroidManifest.xml:41:24-70
+51                android:value=".MainActivity" />
+51-->/Users/seob_jj/github/repository/android-learn/Android 4.2/DroidCafeInput/app/src/main/AndroidManifest.xml:42:17-46
+52        </activity>
+53    </application>
+54
+55</manifest>
