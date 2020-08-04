@@ -1,0 +1,99 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/seob_jj/github/repository/android-learn/Android 5.2/MaterialMe-Starter/app/src/main/AndroidManifest.xml:17:1-35:12
+INJECTED from /Users/seob_jj/github/repository/android-learn/Android 5.2/MaterialMe-Starter/app/src/main/AndroidManifest.xml:17:1-35:12
+INJECTED from /Users/seob_jj/github/repository/android-learn/Android 5.2/MaterialMe-Starter/app/src/main/AndroidManifest.xml:17:1-35:12
+INJECTED from /Users/seob_jj/github/repository/android-learn/Android 5.2/MaterialMe-Starter/app/src/main/AndroidManifest.xml:17:1-35:12
+MERGED from [com.android.support:appcompat-v7:27.1.1] /Users/seob_jj/.gradle/caches/transforms-2/files-2.1/34555d386a7eb9ea3045ff1382069509/appcompat-v7-27.1.1/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:recyclerview-v7:27.1.1] /Users/seob_jj/.gradle/caches/transforms-2/files-2.1/a80569472a732a3b145ef6efb9ac4e35/recyclerview-v7-27.1.1/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:27.1.1] /Users/seob_jj/.gradle/caches/transforms-2/files-2.1/98ae252499136acc1b719b648cf37a02/support-fragment-27.1.1/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /Users/seob_jj/.gradle/caches/transforms-2/files-2.1/92f6bd40a5000c8ba369b9b586b9dc2a/animated-vector-drawable-27.1.1/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.1] /Users/seob_jj/.gradle/caches/transforms-2/files-2.1/889cd5312b1c8a80b5f802fedec61c8e/support-core-ui-27.1.1/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.1] /Users/seob_jj/.gradle/caches/transforms-2/files-2.1/170b8b5178685929da25528d81b6007c/support-core-utils-27.1.1/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /Users/seob_jj/.gradle/caches/transforms-2/files-2.1/d9f0ccfcd486ba9dee199b5a21775b63/support-vector-drawable-27.1.1/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.1] /Users/seob_jj/.gradle/caches/transforms-2/files-2.1/d694d7513e1ca99c176cc55df91d4662/support-compat-27.1.1/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /Users/seob_jj/.gradle/caches/transforms-2/files-2.1/06e084fcde9c4549fc294d5fcf377d7c/livedata-core-1.1.0/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /Users/seob_jj/.gradle/caches/transforms-2/files-2.1/58707b756588e8d18ddbe512adc6dcdf/viewmodel-1.1.0/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /Users/seob_jj/.gradle/caches/transforms-2/files-2.1/3760d8ea4fed3bd7e04285d253c1b3a4/runtime-1.1.0/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] /Users/seob_jj/.gradle/caches/transforms-2/files-2.1/3a180f34418bc86b05d3c330452a2346/runtime-1.1.0/AndroidManifest.xml:17:1-22:12
+INJECTED from /Users/seob_jj/github/repository/android-learn/Android 5.2/MaterialMe-Starter/app/src/main/AndroidManifest.xml:17:1-35:12
+INJECTED from /Users/seob_jj/github/repository/android-learn/Android 5.2/MaterialMe-Starter/app/src/main/AndroidManifest.xml:17:1-35:12
+INJECTED from /Users/seob_jj/github/repository/android-learn/Android 5.2/MaterialMe-Starter/app/src/main/AndroidManifest.xml:17:1-35:12
+	package
+		ADDED from /Users/seob_jj/github/repository/android-learn/Android 5.2/MaterialMe-Starter/app/src/main/AndroidManifest.xml:18:5-45
+		INJECTED from /Users/seob_jj/github/repository/android-learn/Android 5.2/MaterialMe-Starter/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/seob_jj/github/repository/android-learn/Android 5.2/MaterialMe-Starter/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/seob_jj/github/repository/android-learn/Android 5.2/MaterialMe-Starter/app/src/main/AndroidManifest.xml
+		ADDED from /Users/seob_jj/github/repository/android-learn/Android 5.2/MaterialMe-Starter/app/src/main/AndroidManifest.xml:17:1-35:12
+		INJECTED from /Users/seob_jj/github/repository/android-learn/Android 5.2/MaterialMe-Starter/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/seob_jj/github/repository/android-learn/Android 5.2/MaterialMe-Starter/app/src/main/AndroidManifest.xml
+		ADDED from /Users/seob_jj/github/repository/android-learn/Android 5.2/MaterialMe-Starter/app/src/main/AndroidManifest.xml:17:1-35:12
+		INJECTED from /Users/seob_jj/github/repository/android-learn/Android 5.2/MaterialMe-Starter/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/seob_jj/github/repository/android-learn/Android 5.2/MaterialMe-Starter/app/src/main/AndroidManifest.xml:17:11-69
+application
+ADDED from /Users/seob_jj/github/repository/android-learn/Android 5.2/MaterialMe-Starter/app/src/main/AndroidManifest.xml:20:5-33:19
+	android:supportsRtl
+		ADDED from /Users/seob_jj/github/repository/android-learn/Android 5.2/MaterialMe-Starter/app/src/main/AndroidManifest.xml:24:9-35
+	android:label
+		ADDED from /Users/seob_jj/github/repository/android-learn/Android 5.2/MaterialMe-Starter/app/src/main/AndroidManifest.xml:23:9-41
+	android:icon
+		ADDED from /Users/seob_jj/github/repository/android-learn/Android 5.2/MaterialMe-Starter/app/src/main/AndroidManifest.xml:22:9-43
+	android:allowBackup
+		ADDED from /Users/seob_jj/github/repository/android-learn/Android 5.2/MaterialMe-Starter/app/src/main/AndroidManifest.xml:21:9-35
+	android:theme
+		ADDED from /Users/seob_jj/github/repository/android-learn/Android 5.2/MaterialMe-Starter/app/src/main/AndroidManifest.xml:25:9-40
+activity#com.example.android.materialme.MainActivity
+ADDED from /Users/seob_jj/github/repository/android-learn/Android 5.2/MaterialMe-Starter/app/src/main/AndroidManifest.xml:26:9-32:20
+	android:name
+		ADDED from /Users/seob_jj/github/repository/android-learn/Android 5.2/MaterialMe-Starter/app/src/main/AndroidManifest.xml:26:19-77
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/seob_jj/github/repository/android-learn/Android 5.2/MaterialMe-Starter/app/src/main/AndroidManifest.xml:27:13-31:29
+action#android.intent.action.MAIN
+ADDED from /Users/seob_jj/github/repository/android-learn/Android 5.2/MaterialMe-Starter/app/src/main/AndroidManifest.xml:28:17-69
+	android:name
+		ADDED from /Users/seob_jj/github/repository/android-learn/Android 5.2/MaterialMe-Starter/app/src/main/AndroidManifest.xml:28:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/seob_jj/github/repository/android-learn/Android 5.2/MaterialMe-Starter/app/src/main/AndroidManifest.xml:30:17-77
+	android:name
+		ADDED from /Users/seob_jj/github/repository/android-learn/Android 5.2/MaterialMe-Starter/app/src/main/AndroidManifest.xml:30:27-74
+uses-sdk
+INJECTED from /Users/seob_jj/github/repository/android-learn/Android 5.2/MaterialMe-Starter/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/seob_jj/github/repository/android-learn/Android 5.2/MaterialMe-Starter/app/src/main/AndroidManifest.xml
+INJECTED from /Users/seob_jj/github/repository/android-learn/Android 5.2/MaterialMe-Starter/app/src/main/AndroidManifest.xml
+MERGED from [com.android.support:appcompat-v7:27.1.1] /Users/seob_jj/.gradle/caches/transforms-2/files-2.1/34555d386a7eb9ea3045ff1382069509/appcompat-v7-27.1.1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] /Users/seob_jj/.gradle/caches/transforms-2/files-2.1/34555d386a7eb9ea3045ff1382069509/appcompat-v7-27.1.1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.1.1] /Users/seob_jj/.gradle/caches/transforms-2/files-2.1/a80569472a732a3b145ef6efb9ac4e35/recyclerview-v7-27.1.1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.1.1] /Users/seob_jj/.gradle/caches/transforms-2/files-2.1/a80569472a732a3b145ef6efb9ac4e35/recyclerview-v7-27.1.1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] /Users/seob_jj/.gradle/caches/transforms-2/files-2.1/98ae252499136acc1b719b648cf37a02/support-fragment-27.1.1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] /Users/seob_jj/.gradle/caches/transforms-2/files-2.1/98ae252499136acc1b719b648cf37a02/support-fragment-27.1.1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /Users/seob_jj/.gradle/caches/transforms-2/files-2.1/92f6bd40a5000c8ba369b9b586b9dc2a/animated-vector-drawable-27.1.1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /Users/seob_jj/.gradle/caches/transforms-2/files-2.1/92f6bd40a5000c8ba369b9b586b9dc2a/animated-vector-drawable-27.1.1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] /Users/seob_jj/.gradle/caches/transforms-2/files-2.1/889cd5312b1c8a80b5f802fedec61c8e/support-core-ui-27.1.1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] /Users/seob_jj/.gradle/caches/transforms-2/files-2.1/889cd5312b1c8a80b5f802fedec61c8e/support-core-ui-27.1.1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] /Users/seob_jj/.gradle/caches/transforms-2/files-2.1/170b8b5178685929da25528d81b6007c/support-core-utils-27.1.1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] /Users/seob_jj/.gradle/caches/transforms-2/files-2.1/170b8b5178685929da25528d81b6007c/support-core-utils-27.1.1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /Users/seob_jj/.gradle/caches/transforms-2/files-2.1/d9f0ccfcd486ba9dee199b5a21775b63/support-vector-drawable-27.1.1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /Users/seob_jj/.gradle/caches/transforms-2/files-2.1/d9f0ccfcd486ba9dee199b5a21775b63/support-vector-drawable-27.1.1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] /Users/seob_jj/.gradle/caches/transforms-2/files-2.1/d694d7513e1ca99c176cc55df91d4662/support-compat-27.1.1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] /Users/seob_jj/.gradle/caches/transforms-2/files-2.1/d694d7513e1ca99c176cc55df91d4662/support-compat-27.1.1/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /Users/seob_jj/.gradle/caches/transforms-2/files-2.1/06e084fcde9c4549fc294d5fcf377d7c/livedata-core-1.1.0/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /Users/seob_jj/.gradle/caches/transforms-2/files-2.1/06e084fcde9c4549fc294d5fcf377d7c/livedata-core-1.1.0/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /Users/seob_jj/.gradle/caches/transforms-2/files-2.1/58707b756588e8d18ddbe512adc6dcdf/viewmodel-1.1.0/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /Users/seob_jj/.gradle/caches/transforms-2/files-2.1/58707b756588e8d18ddbe512adc6dcdf/viewmodel-1.1.0/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /Users/seob_jj/.gradle/caches/transforms-2/files-2.1/3760d8ea4fed3bd7e04285d253c1b3a4/runtime-1.1.0/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /Users/seob_jj/.gradle/caches/transforms-2/files-2.1/3760d8ea4fed3bd7e04285d253c1b3a4/runtime-1.1.0/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] /Users/seob_jj/.gradle/caches/transforms-2/files-2.1/3a180f34418bc86b05d3c330452a2346/runtime-1.1.0/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] /Users/seob_jj/.gradle/caches/transforms-2/files-2.1/3a180f34418bc86b05d3c330452a2346/runtime-1.1.0/AndroidManifest.xml:20:5-44
+INJECTED from /Users/seob_jj/github/repository/android-learn/Android 5.2/MaterialMe-Starter/app/src/main/AndroidManifest.xml
+INJECTED from /Users/seob_jj/github/repository/android-learn/Android 5.2/MaterialMe-Starter/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/seob_jj/github/repository/android-learn/Android 5.2/MaterialMe-Starter/app/src/main/AndroidManifest.xml
+		ADDED from /Users/seob_jj/github/repository/android-learn/Android 5.2/MaterialMe-Starter/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/seob_jj/github/repository/android-learn/Android 5.2/MaterialMe-Starter/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/seob_jj/github/repository/android-learn/Android 5.2/MaterialMe-Starter/app/src/main/AndroidManifest.xml
+		ADDED from /Users/seob_jj/github/repository/android-learn/Android 5.2/MaterialMe-Starter/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/seob_jj/github/repository/android-learn/Android 5.2/MaterialMe-Starter/app/src/main/AndroidManifest.xml
