@@ -1,0 +1,28 @@
+{
+    "logs": [
+        {
+            "outputFile": "/Users/seob_jj/github/repository/android-learn/Android 5.3/MaterialMe-Resource/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-ko-rKR/values-ko-rKR.xml",
+            "map": [
+                {
+                    "source": "/Users/seob_jj/github/repository/android-learn/Android 5.3/MaterialMe-Resource/app/src/main/res/values-ko-rKR/strings.xml",
+                    "from": {
+                        "startLines": "41,27,13,2,4,5,6,3",
+                        "startColumns": "4,4,4,4,4,4,4,4",
+                        "startOffsets": "1644,1050,663,55,157,207,277,105",
+                        "endLines": "53,39,25,2,4,5,11,3",
+                        "endColumns": "12,19,19,49,49,69,26,51",
+                        "endOffsets": "2164,1638,1044,100,202,272,657,152"
+                    },
+                    "to": {
+                        "startLines": "2,15,28,41,42,43,44,50",
+                        "startColumns": "4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,580,1173,1559,1609,1659,1729,2114",
+                        "endLines": "14,27,40,41,42,43,49,50",
+                        "endColumns": "12,19,19,49,49,69,26,51",
+                        "endOffsets": "575,1168,1554,1604,1654,1724,2109,2161"
+                    }
+                }
+            ]
+        }
+    ]
+}
