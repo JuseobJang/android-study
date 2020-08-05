@@ -87,7 +87,7 @@ public class MainActivity extends AppCompatActivity {
             }
         });
         helper.attachToRecyclerView(mRecyclerView);
-        
+
         // Get the data.
         initializeData();
     }
