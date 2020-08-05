@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "/Users/seob_jj/github/repository/android-learn/Android 5.2/MaterialMe-Starter/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-pt-rBR/values-pt-rBR.xml",
+            "outputFile": "/Users/seob_jj/github/repository/android-learn/Android 5.3/MaterialMe-Resource/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-pt-rBR/values-pt-rBR.xml",
             "map": [
                 {
                     "source": "/Users/seob_jj/.gradle/caches/transforms-2/files-2.1/03736cf4bc3669a69d502627b70a527e/core-1.1.0/res/values-pt-rBR/values-pt-rBR.xml",

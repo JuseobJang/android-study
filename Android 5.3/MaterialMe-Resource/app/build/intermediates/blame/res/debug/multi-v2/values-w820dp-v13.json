@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "/Users/seob_jj/github/repository/android-learn/Android 5.2/MaterialMe-Starter/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-w820dp-v13/values-w820dp-v13.xml",
+            "outputFile": "/Users/seob_jj/github/repository/android-learn/Android 5.3/MaterialMe-Resource/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-w820dp-v13/values-w820dp-v13.xml",
             "map": [
                 {
-                    "source": "/Users/seob_jj/github/repository/android-learn/Android 5.2/MaterialMe-Starter/app/src/main/res/values-w820dp/dimens.xml",
+                    "source": "/Users/seob_jj/github/repository/android-learn/Android 5.3/MaterialMe-Resource/app/src/main/res/values-w820dp/dimens.xml",
                     "from": {
                         "startLines": "19",
                         "startColumns": "4",

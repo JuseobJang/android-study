@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "/Users/seob_jj/github/repository/android-learn/Android 5.2/MaterialMe-Starter/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-land/values-land.xml",
+            "outputFile": "/Users/seob_jj/github/repository/android-learn/Android 5.3/MaterialMe-Resource/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-land/values-land.xml",
             "map": [
                 {
                     "source": "/Users/seob_jj/.gradle/caches/transforms-2/files-2.1/c2c5fa787d66aaf40578b3071f4d283f/appcompat-1.1.0/res/values-land/values-land.xml",
@@ -11,6 +11,23 @@
                         "startOffsets": "55,125,196",
                         "endColumns": "69,70,67",
                         "endOffsets": "120,191,259"
+                    }
+                },
+                {
+                    "source": "/Users/seob_jj/github/repository/android-learn/Android 5.3/MaterialMe-Resource/app/src/main/res/values-land/integers.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "49",
+                        "endOffsets": "100"
+                    },
+                    "to": {
+                        "startLines": "21",
+                        "startColumns": "4",
+                        "startOffsets": "1422",
+                        "endColumns": "49",
+                        "endOffsets": "1467"
                     }
                 },
                 {
@@ -24,12 +41,12 @@
                         "endOffsets": "123,193,265,335,400,467,537,609,678,747,829,919,995,1063,1130,1208,1273,1340,1512,1907,2176"
                     },
                     "to": {
-                        "startLines": "5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,27,33",
+                        "startLines": "5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,22,23,24,28,34",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
-                        "startOffsets": "264,337,407,479,549,614,681,751,823,892,961,1043,1133,1209,1277,1344,1422,1487,1554,1726,2121",
-                        "endLines": "5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,26,32,37",
+                        "startOffsets": "264,337,407,479,549,614,681,751,823,892,961,1043,1133,1209,1277,1344,1472,1537,1604,1776,2171",
+                        "endLines": "5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,22,23,27,33,38",
                         "endColumns": "72,69,71,69,64,66,69,71,68,68,81,89,75,67,66,77,64,66,10,10,10",
-                        "endOffsets": "332,402,474,544,609,676,746,818,887,956,1038,1128,1204,1272,1339,1417,1482,1549,1721,2116,2385"
+                        "endOffsets": "332,402,474,544,609,676,746,818,887,956,1038,1128,1204,1272,1339,1417,1532,1599,1771,2166,2435"
                     }
                 }
             ]
