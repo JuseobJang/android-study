@@ -14,7 +14,7 @@
 >
 >    * Nexus 5 API 16
 >
->     <img src="image/virtualDevice.png" width="25%" />
+>     <img src="image/virtualDevice.png" width="40%" />
 >
 > 4. **Change the app Gradle configuration**
 >
