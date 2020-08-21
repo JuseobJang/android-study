@@ -15,6 +15,7 @@
  */
 package com.example.android.hellosharedprefs;
 
+import android.content.SharedPreferences;
 import android.graphics.drawable.ColorDrawable;
 import android.support.v4.content.ContextCompat;
 import android.support.v7.app.AppCompatActivity;
@@ -45,6 +46,9 @@ public class MainActivity extends AppCompatActivity {
     // Key for current color
     private final String COLOR_KEY = "color";
 
+    private SharedPreferences mPreferences; //sharedPreferences 변수 추가
+    private String sharedPreFile = "com.exmaple.android.hellosharedprefs";
+
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -56,17 +60,16 @@ public class MainActivity extends AppCompatActivity {
         mColor = ContextCompat.getColor(this,
                 R.color.default_background);
 
-        // Restore the saved instance state.
-        if (savedInstanceState != null) {
+        mPreferences = getSharedPreferences(sharedPreFile,MODE_PRIVATE); // mPreferences 초기화
 
-            mCount = savedInstanceState.getInt(COUNT_KEY);
-            if (mCount != 0) {
-                mShowCountTextView.setText(String.format("%s", mCount));
-            }
+        mCount = mPreferences.getInt(COUNT_KEY, 0);
+        mShowCountTextView.setText(String.format("%s", mCount)); // 카운트 복원
+        mColor = mPreferences.getInt(COLOR_KEY, mColor);
+        mShowCountTextView.setBackgroundColor(mColor); // 컬러 복
 
-            mColor = savedInstanceState.getInt(COLOR_KEY);
-            mShowCountTextView.setBackgroundColor(mColor);
-        }
+
+
+
     }
 
     /**
@@ -116,6 +119,12 @@ public class MainActivity extends AppCompatActivity {
      * @param view The view (Button) that was clicked.
      */
     public void reset(View view) {
+
+        SharedPreferences.Editor preferencesEditor = mPreferences.edit();
+        preferencesEditor.clear(); // 모든 환경 설정 삭제
+        preferencesEditor.apply();  // 삭제 적용
+
+
         // Reset count
         mCount = 0;
         mShowCountTextView.setText(String.format("%s", mCount));
@@ -124,5 +133,17 @@ public class MainActivity extends AppCompatActivity {
         mColor = ContextCompat.getColor(this,
                 R.color.default_background);
         mShowCountTextView.setBackgroundColor(mColor);
+    }
+
+    @Override
+    protected void onPause() {
+        super.onPause();
+        SharedPreferences.Editor preferencesEditor = mPreferences.edit();
+        preferencesEditor.putInt(COUNT_KEY, mCount);
+        preferencesEditor.putInt(COLOR_KEY, mColor); // editor를 사용하여 적절한 카운트와 색을 추가한다.
+
+        preferencesEditor.apply(); // 비동기적으로 설정을 저장하는 역할
+
+
     }
 }
