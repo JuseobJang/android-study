@@ -1,0 +1,4 @@
+#Fri Aug 21 18:40:48 KST 2020
+base.0=/Users/seob_jj/github/repository/android-learn/Android 9.1/HelloSharedPrefs/app/build/intermediates/transforms/dexMerger/debug/0
+path.0=classes.dex
+renamed.0=classes.dex
