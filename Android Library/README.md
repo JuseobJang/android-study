@@ -118,3 +118,53 @@
 >Reference
 >
 ><https://github.com/ar-android/AQuery>
+
+Realm Database
+
+realm database 란? 모바일 어플리케이션 내에서 사용하는 최적화된 데이터베이스 플랫폼이다. 
+
+realm database 는 기본적으로 NoSQL을 지향하며 rawSQL 을 사용하지 않아 realm 내부 API를 사용해야한다. 따라서 성능이 올라가긴 하지만 realm database를 사용하기 위해 어느 정도의 학습 시간을 투자 해야한다. 
+
+**Simple Usage**
+> build.gradle에 realm library를 불러옴
+> ```gradle
+> buildscript {
+>    repositories {
+>        jcenter()
+>    }
+>    dependencies {
+>        classpath "io.realm:realm-gradle-plugin:3.5.0"
+>    }
+>}
+>```
+>
+> realmObject 기반의 모델을 생성
+> ```java
+> public class example_model extends RealmObject {
+>
+>    private String          name;
+>    private int             age;
+>
+>
+>    public String getName() { return name; }
+>    public void   setName(String name) { this.name = name; }
+>    public int    getAge() { return age; }
+>    public void   setAge(int age) { this.age = age; }
+>}
+> ```
+>
+> realm 객체 생성
+> ```java
+> // Realm 인스턴스 생성
+> realm.executeTransaction(new Realm.Transaction() {
+>	@Override
+>	public void execute(Realm realm) {
+>		User user = realm.createObject(example.class);
+>		user.setName("seob");
+>		user.setAge("010-xxxx-xxxx");
+>	}
+> });
+> ```
+realm 은 나열하기 힘들 정도로 다양한 기능을 제공하므로 realm 공식문서를 참조 하길 바란다.
+
+Realm 공식 문서 [바로가기](https://realm.io/kr/docs/)
